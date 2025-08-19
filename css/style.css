@@ -1,0 +1,13 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #faf7f3;
+  background-image: url("https://wallpapers.com/images/featured/fondos-de-paisajes-naturales-k9tfch0hpfjbaxel.jpg");
+  background-size: 100% 40%;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+
+.font-playfair {
+  font-family: 'Playfair Display', serif;
+}
